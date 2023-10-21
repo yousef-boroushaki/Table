@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container {
+    margin: 50px auto;
+}
+
+.container td{
+
+    width: 100px;
+    height: 50px;
+    padding-left: 20px;
+}
+
+.container th {
+    width: 100px;
+    height: 50px;
+    padding-left: 10px;
+}
+
+
+
+.row2 {
+    background-color: #fff;
+}
+
+.header {
+    background-color: green;
+    color: white;
+}
+
+.row3 {
+    background-color: rgb(224, 223, 223);
+    color: green;
+}
+
+.row4 {
+    background-color: #fff;
+    border-bottom: 2px solid green;
+}
